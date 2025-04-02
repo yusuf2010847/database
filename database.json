@@ -1,0 +1,42 @@
+{
+  "users": {
+    "6283824505310@s.whatsapp.net": {
+      "daftar": false,
+      "nama": "bayu",
+      "saldo": "0"
+    },
+    "6283857564133@s.whatsapp.net": {
+      "daftar": true,
+      "nama": "rafael",
+      "saldo": "503010"
+    },
+    "6289517657040@s.whatsapp.net": {
+      "daftar": false,
+      "nama": "6283857564133",
+      "saldo": "0"
+    },
+    "6289513155643@s.whatsapp.net": {
+      "daftar": false,
+      "nama": "Alpin M",
+      "saldo": "0"
+    },
+    "6288232154376@s.whatsapp.net": {
+      "daftar": false,
+      "nama": "Abi P",
+      "saldo": "0"
+    },
+    "6282245388943@s.whatsapp.net": {
+      "daftar": false,
+      "nama": "VensCuyy",
+      "saldo": "0"
+    },
+    "6283857794217@s.whatsapp.net": {
+      "daftar": false,
+      "nama": "Andika Putra",
+      "saldo": "0"
+    }
+  },
+  "chats": {},
+  "others": {},
+  "settings": {}
+}
